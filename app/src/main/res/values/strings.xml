@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">MemoriaBT</string>
+	<string name="men_principal_title">Menú Principal</string>
+	<string name="crear_partida">Crear Partida</string>
+	<string name="buscar_partida">Buscar Partida</string>
+	<string name="dispositivos_vinculados">Dispositivos Vinculados</string>
+	<string name="esperando">Esperando...</string>
+	<string name="carta_de_memoria">Carta de memoria</string>
+</resources>
